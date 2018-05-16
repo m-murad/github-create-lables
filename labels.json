@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Category: Coding",
+        "color": "005c88"
+    },
+    {
+        "name": "Category: Documentation/Training",
+        "color": "327c9f"
+    },
+    {
+        "name": "Category: Outreach/Research",
+        "color": "669db7"
+    },
+    {
+        "name": "Category: Quality Assurance",
+        "color": "99bdcf"
+    },
+    {
+        "name": "Category: User Interface",
+        "color": "ccdee7"
+    },
+    {
+        "name": "Difficulty: HARD",
+        "color": "8d2165"
+    },
+    {
+        "name": "Difficulty: MEDIUM",
+        "color": "af6393"
+    },
+    {
+        "name": "Difficulty: EASY",
+        "color": "d1a6c1"
+    },
+    {
+        "name": "Priority: HIGH",
+        "color": "47bca0"
+    },
+    {
+        "name": "Priority: MEDIUM",
+        "color": "90d6c6"
+    },
+    {
+        "name": "Priority: LOW",
+        "color": "daf1ec"
+    },
+    {
+        "name": "Program: GCI",
+        "color": "f89728"
+    },
+    {
+        "name": "Program: GHC OSD",
+        "color": "f9ab52"
+    },
+    {
+        "name": "Program: GSOC",
+        "color": "fac07e"
+    },
+    {
+        "name": "Program: Outreachy",
+        "color": "fcd5a9"
+    },
+    {
+        "name": "Program: RGSOC",
+        "color": "fdead4"
+    },
+    {
+        "name": "Status: Available",
+        "color": "c1d82f"
+    },
+    {
+        "name": "Status: Abandoned",
+        "color": "f8fbea"
+    },
+    {
+        "name": "Type: Bug",
+        "color": "dda0ba"
+    },
+    {
+        "name": "Type: Enhancement",
+        "color": "f6b2cf"
+    },
+    {
+        "name": "Type: Maintenance",
+        "color": "f7c1d8"
+    },
+    {
+        "name": "Type: Question",
+        "color": "fad8e7"
+    },
+    {
+        "name": "Type: Testing",
+        "color": "fce7f0"
+    },
+    {
+        "name": "First Timers Only",
+        "color": "54bceb"
+    },
+    {
+        "name": "Open Later",
+        "color": "87d0f1"
+    },
+    {
+        "name": "Review Requested",
+        "color": "a9ddf5"
+    },
+    {
+        "name": "Hacktoberfest",
+        "color": "cbeaf9"
+    }
+]
