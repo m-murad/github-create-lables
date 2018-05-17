@@ -36,7 +36,7 @@ func main() {
 
 	json.Unmarshal(byteValue, &labels)
 
-	url := "https://api.github.com/repos/m-murad/test-github-api/labels"
+	url := "https://api.github.com/repos/REPO_OWNER/REPO_NAME/labels"
 
 	for i := 0; i < len(labels.Labels); i++ {
 		log.Printf("Lable name: " + labels.Labels[i].Name)
